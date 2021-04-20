@@ -1,7 +1,7 @@
 <template>
   <v-layout row>
     <v-flex sm6 offset-sm3 text-xs-center>
-      <h1 id="title">TODO LIST</h1>
+      <h1 id="title">TODO LIST - commit 1</h1>
       <todo-input />
       <todo-list />
     </v-flex>
